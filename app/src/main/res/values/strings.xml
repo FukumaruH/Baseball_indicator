@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">草野球の神器</string>
+    <string name="button_text_strike">ストライク</string>
+    <string name="button_text_ball">ボール</string>
+    <string name="button_text_out">アウト</string>
+    <string name="button_text_inning">イニング</string>
+    <string name="button_text_topbuttom">表/裏</string>
+    <string name="button_text_scorep">得点 ＋</string>
+    <string name="button_text_scorem">得点 ー</string>
+    <string name="button_text_reset">リセット</string>
+    <string name="button_text_teamname">チーム名入力</string>
+    <string name="button_text_finish">完了</string>
+</resources>
