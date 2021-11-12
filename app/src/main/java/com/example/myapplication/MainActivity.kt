@@ -59,6 +59,7 @@ class MainActivity : AppCompatActivity() {
         }else if(intent.getStringExtra("teamName1") != "" && intent.getStringExtra("teamName2") != ""){
             teamName1 = intent.getStringExtra("teamName1").toString()
             teamName2 = intent.getStringExtra("teamName2").toString()
+            atTN.setText(teamName1)
         } else {
             teamName1 = ""
             teamName2 = ""
